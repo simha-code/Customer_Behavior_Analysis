@@ -1,4 +1,4 @@
-ALTER USER 'root'@'localhost' IDENTIFIED BY '1111';
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'PASSWORD';
 CREATE DATABASE customer_behavior;
 USE customer_behavior;
 SHOW TABLES;
